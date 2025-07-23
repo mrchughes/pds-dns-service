@@ -1,6 +1,6 @@
 # DNS Service for PDS 2.2
 
-A lightweight DNS service for managing TXT records to facilitate domain verification in the PDS 2.2 ecosystem.
+A lightweight DNS service for managing TXT records to facilitate domain verification in the PDS 2.2 ecosystem. This service acts as a core component of the PDS 2.2 architecture, providing domain verification for service providers.
 
 ## Features
 
